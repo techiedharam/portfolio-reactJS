@@ -304,19 +304,19 @@ export const education = [
     id: 2,
     img: "https://www.clipartmax.com/png/middle/262-2620113_cbse-logo-central-board-of-secondary-education.png", // Replace with the actual school image link
     school: "Govt. Sarvodaya Co-Ed Vidyalaya",
-    date: "2018",
-    grade: "73%",
-    desc: "Completed my 10th grade from Govt. Sarvodaya Co-Ed Vidyalaya under the CBSE board with 73%. Focused on Science and Computer Science subjects.",
-    degree: "10th Grade, CBSE",
+    date: "2020",
+    grade: "76%",
+    desc: "Completed my 12th grade from Govt. Sarvodaya Co-Ed Vidyalaya under the CBSE board with 76%. Focused on Science with Computer Science.",
+    degree: "12th Grade, CBSE",
   },
   {
     id: 3,
     img: "https://www.clipartmax.com/png/middle/262-2620113_cbse-logo-central-board-of-secondary-education.png", // Replace with the actual school image link
     school: "Govt. Sarvodaya Co-Ed Vidyalaya",
-    date: "2020",
-    grade: "76%",
-    desc: "Completed my 12th grade from Govt. Sarvodaya Co-Ed Vidyalaya under the CBSE board with 76%. Focused on Science with Computer Science.",
-    degree: "12th Grade, CBSE",
+    date: "2018",
+    grade: "73%",
+    desc: "Completed my 10th grade from Govt. Sarvodaya Co-Ed Vidyalaya under the CBSE board with 73%. Focused on Science and Computer Science subjects.",
+    degree: "10th Grade, CBSE",
   },
 ];
 
