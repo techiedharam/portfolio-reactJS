@@ -329,7 +329,7 @@ export const projects = [
     description:
       "An e-commerce platform built using the MERN stack with a dynamic product listing, secure checkout, and user-friendly interface. It integrates RESTful APIs for backend services and MongoDB for efficient data handling.",
     image:
-      "https://example.com/forever-ecommerce-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/foreverEcommerceImg.png?raw=true",
     tags: [
       "JavaScript",
       "React",
@@ -340,8 +340,8 @@ export const projects = [
       "RESTful APIs",
     ],
     category: "web app",
-    github: "https://github.com/yourusername/forever-ecommerce",
-    webapp: "https://forever-ecommerce-website.com",
+    github: "https://github.com/techiedharam/E-Commerce-platform-MERN",
+    webapp: "https://e-commerce-platform-react.vercel.app/",
   },
   {
     id: 2,
@@ -350,7 +350,7 @@ export const projects = [
     description:
       "A food ordering platform using the MERN stack. It features user authentication, secure payment integration, and responsive design with Tailwind CSS.",
     image:
-      "https://example.com/food-ordering-website-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/foodOrderingImg.png?raw=true",
     tags: [
       "JavaScript",
       "React",
@@ -363,8 +363,8 @@ export const projects = [
       "Responsive Web Design",
     ],
     category: "web app",
-    github: "https://github.com/yourusername/food-ordering-website",
-    webapp: "https://food-ordering-website.com",
+    github: "https://github.com/techiedharam/Food-Ordering-Website-MERN",
+    webapp: "https://food-ordering-website-mern-pngbxwriw.vercel.app/",
   },
   {
     id: 3,
@@ -373,7 +373,7 @@ export const projects = [
     description:
       "An interactive movie app using React.js, featuring search, sorting, and filtering. It fetches movie data from an API and includes a rating and review system.",
     image:
-      "https://example.com/movie-app-react-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/movieWebImg.png?raw=true",
     tags: [
       "JavaScript",
       "React",
@@ -382,8 +382,8 @@ export const projects = [
       "Responsive Web Design",
     ],
     category: "web app",
-    github: "https://github.com/yourusername/movie-app-react",
-    webapp: "https://movie-app-react.com",
+    github: "https://github.com/techiedharam/Movie-App-react",
+    webapp: "https://movie-app-react-gt7lbkc95-dharmenders-projects-9d2f0c63.vercel.app/",
   },
   {
     id: 4,
@@ -392,11 +392,11 @@ export const projects = [
     description:
       "A music streaming web app built with React.js. Users can search for songs, play music, and create playlists.",
     image:
-      "https://example.com/music-app-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/musicWebImg.png?raw=true",
     tags: ["JavaScript", "React", "Redux", "API"],
     category: "web app",
-    github: "https://github.com/yourusername/music-app",
-    webapp: "https://music-app.com",
+    github: "https://github.com/techiedharam/Music-App-react",
+    webapp: "https://music-app-react-6teiulg6w-dharmenders-projects-9d2f0c63.vercel.app/",
   },
   {
     id: 5,
@@ -405,7 +405,7 @@ export const projects = [
     description:
       "A simple weather forecasting app built with React.js. It fetches real-time weather data using an API and displays it with a user-friendly UI.",
     image:
-      "https://example.com/weather-app-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/whetherWebImg.png?raw=true",
     tags: ["JavaScript", "React", "API"],
     category: "web app",
     github: "https://github.com/yourusername/weather-app",
@@ -418,7 +418,7 @@ export const projects = [
     description:
       "A personal portfolio website showcasing web development projects, skills, and services. Built using React.js, Tailwind CSS, and a responsive design.",
     image:
-      "https://example.com/portfolio-website-image.png",
+      "https://github.com/techiedharam/portfolio-reactJS/blob/master/public/websiteImages/portfolioWebImg.png?raw=true",
     tags: ["React", "Tailwind CSS", "Responsive Web Design"],
     category: "web app",
     github: "https://github.com/yourusername/portfolio-website",
