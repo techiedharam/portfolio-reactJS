@@ -2,8 +2,8 @@ export const Bio = {
   name: "Dharmender",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
-    "UI/UX Designer",
+    "MERN Stack Developer",
+    "NodeJS Designer",
     "Programmer",
   ],
   description:
